@@ -1,0 +1,42 @@
+.logo-style{
+    width: 280px;
+    height: 67px;
+}
+.btn-primary{
+color:white;
+background-color: #407797;
+}
+
+.hero{
+    position: relative;
+    overflow: hidden;
+}
+.hero-main{
+    position: absolute;
+    top:170px;
+    left:55px;
+    color: white;
+    h1{
+        font-size: 56px;
+    }
+    p{
+        font-size: 20px;
+    }
+}
+
+.slider-style{
+    width:169px;
+}
+.hp_ipad{
+    background-image: url('../images/hp_ipad.png');
+  background-size: cover;
+  height:500px;
+  margin-top:10px;
+  h1,p{
+      color:white
+  }
+}
+.hp_ipad_text{
+    margin-top:130px;
+    position: absolute;
+}
